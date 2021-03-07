@@ -1,0 +1,13 @@
+C:\Users\renan\Documents\DotNet\Projeto_CRUD_Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\Users\renan\Documents\DotNet\Projeto_CRUD_Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\Users\renan\Documents\DotNet\Projeto_CRUD_Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\Users\renan\Documents\DotNet\Projeto_CRUD_Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\Users\renan\Documents\DotNet\Projeto_CRUD_Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\renan\Documents\DotNet\Projeto_CRUD_Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\renan\Documents\DotNet\Projeto_CRUD_Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+C:\Users\renan\Documents\DotNet\Projeto_CRUD_Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\renan\Documents\DotNet\Projeto_CRUD_Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\Users\renan\Documents\DotNet\Projeto_CRUD_Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\renan\Documents\DotNet\Projeto_CRUD_Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\renan\Documents\DotNet\Projeto_CRUD_Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\renan\Documents\DotNet\Projeto_CRUD_Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
